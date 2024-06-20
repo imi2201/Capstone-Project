@@ -25,7 +25,7 @@ We welcome contributions to SelfMedic! If you'd like to contribute, please follo
 
 To train your machine learning model for SelfMedic, please follow these steps:
 
-1. **Use the provided `.ipynb` files**: The repository includes `.ipynb` files (`Model_1.ipynb` and `Model_2_capstone_project.ipynb`) for training and testing your model. Please utilize these files to ensure consistency and compatibility with our application.
+1. **Use the provided `.ipynb` files**: The repository includes `.ipynb` files (`Model_1.ipynb` and `Model_2_Bangkit_capstone.ipynb`) for training and testing your model. Please utilize these files to ensure consistency and compatibility with our application.
 
 ### Dataset Links
 
