@@ -36,5 +36,12 @@ Here are the links to the datasets required for training the model:
 
 Please download the datasets and ensure they are accessible to the `.ipynb` files during training.
 
+### Trained Model
+
+You can find the trained model files in the repository. The `Model_1` file is available for download above.
+
+Unfortunately, `Model_2` cannot be provided here due to its large file size. If you need access to `Model_2`, please contact the project maintainers for alternative distribution methods.
+
+
 Thank you for your contributions to SelfMedic!
   
